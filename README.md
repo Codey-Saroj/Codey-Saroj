@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Codey-Saroj</h1>
-<h3 align="center">Aspiring Developer | Learning Web, Java & Python | Tech Explorer</h3>
+<h3 align="center">Aspiring Software Engineer | BSc IT (Hons) Student | Exploring Java & Python | Frontend Practice with HTML, CSS, JS, GitHub | Eager to Intern & Learn</h3>
 
 - 🔭 I’m currently working on **Amazon Clone Webpage Project**
 
